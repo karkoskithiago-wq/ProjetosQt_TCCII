@@ -1,0 +1,2 @@
+# ProjetosQt_TCCII
+SistemaVendasTCCll
